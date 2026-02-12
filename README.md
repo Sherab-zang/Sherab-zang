@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Sherab 👋
 
-<!--
-**Sherab-zang/Sherab-zang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer & Software Engineering student at QUT  
+💻 Interested in software development and problem-solving  
+🧠 Currently learning: Git, Python, C#, and object-oriented design  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Programming: Python, C#, C, MATLAB  
+- Tools: Git, GitHub, VS Code  
+- Concepts: OOP, Data Structures, Input Validation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- Hospital Management System (C#)
+- Audio Signal Processing (MATLAB)
+- Python Practice Problems
+
+📫 Connect with me on LinkedIn
